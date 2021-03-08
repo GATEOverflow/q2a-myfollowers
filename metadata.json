@@ -1,0 +1,15 @@
+{
+  "name": "My Followers Widget",
+  "uri": "",
+  "description": "Provides a list of my followers",
+  "version": "1.2.1",
+  "date": "2013-05-23",
+  "author": "samaSS@CMSBOX",
+  "author_uri": "http://www.cmsbox.jp/",
+  "license": "GPLv2",
+  "update_uri": "https://raw.githubusercontent.com/samaSS@CMSBOX/myfollowerswidget/master/metadata.json",
+  "min_q2a": "1.5",
+  "min_php": "5.1.6"
+  "load_order": "after_db_init"
+}
+
